@@ -1,2 +1,2 @@
 # prepo
-esto es un repositorio de prueba de modulo 2 de my henry
+este proyecto es una prueba de como crear un repositorio
